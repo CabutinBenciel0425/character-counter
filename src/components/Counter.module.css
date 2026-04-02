@@ -1,0 +1,12 @@
+.charCountContainer {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.charCount {
+  font-weight: 800;
+}
